@@ -1,4 +1,59 @@
-Privacy Policy
+EN: Privacy Policy
+
+Last updated: October 8, 2025
+
+This Privacy Policy describes how personal data is handled within the SpesApp/Shoppy application (“the App”).
+
+1. Data collected
+
+The App does not collect any sensitive personal data and does not use GPS, camera, or other device sensors.
+To enable synchronization and sharing features, the App allows sign-in through a Google account.
+The only data used is the Google account email address, which is necessary to:
+
+uniquely identify the user on Firebase;
+
+store and synchronize shopping list data in the user’s personal cloud.
+
+2. Use of data
+
+Data (email address and shopping list contents) are stored in Firebase, a service provided by Google, and are handled according to Google’s Terms of Service and Privacy Policy:
+https://policies.google.com/privacy
+
+No data is collected or shared with any third parties outside of Firebase.
+The App does not use any data for advertising, analytics, or profiling purposes.
+
+3. Data retention
+
+Data is stored only on Firebase for as long as the user keeps their account active.
+If the user deletes their account or associated data, all related shopping list information is automatically removed.
+
+4. Data sharing
+
+No personal data is sold, shared, or transferred to third parties.
+Shopping lists can be shared voluntarily by the user with other users through the App’s built-in features.
+
+5. Security
+
+The App relies on Firebase’s built-in security mechanisms (authentication and protected database) to ensure data confidentiality and integrity.
+
+6. User rights
+
+Users may at any time:
+
+delete their data from the lists;
+
+disconnect their Google account;
+
+request data deletion by contacting the developer.
+
+7. Contact
+
+For any questions or privacy-related requests, please contact the developer at:
+📧 kijuz.develop@gmail.com
+
+
+
+IT: Privacy Policy
 
 Ultimo aggiornamento: 8 ottobre 2025
 
