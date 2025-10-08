@@ -1,0 +1,52 @@
+Privacy Policy
+
+Ultimo aggiornamento: 8 ottobre 2025
+
+La presente informativa descrive come vengono gestiti i dati personali all’interno dell’applicazione SpesApp/Shoppy (“l’App”).
+
+1. Dati raccolti
+
+L’App non raccoglie alcun dato personale sensibile né utilizza il GPS, la fotocamera o altri sensori del dispositivo.
+Per utilizzare le funzioni di sincronizzazione e condivisione delle liste della spesa, l’App permette l’accesso tramite account Google.
+L’unico dato utilizzato è l’indirizzo email dell’account Google, necessario per:
+
+identificare in modo univoco l’utente su Firebase;
+
+salvare e sincronizzare i dati delle liste della spesa sul cloud personale dell’utente.
+
+2. Uso dei dati
+
+I dati (indirizzo email e contenuti delle liste) vengono archiviati in Firebase, un servizio di Google, e sono gestiti secondo i termini di utilizzo e l’informativa sulla privacy di Google:
+https://policies.google.com/privacy
+
+Non vengono raccolti né condivisi dati con terze parti al di fuori di Firebase.
+L’App non utilizza i dati per fini pubblicitari, analitici o di profilazione.
+
+3. Conservazione dei dati
+
+I dati vengono conservati esclusivamente su Firebase finché l’utente mantiene attivo il proprio account.
+In caso di cancellazione dell’account o dei dati associati, tutte le informazioni relative alle liste vengono rimosse automaticamente.
+
+4. Condivisione dei dati
+
+Nessun dato personale viene ceduto, venduto o condiviso con soggetti terzi.
+Le liste della spesa possono essere condivise solo volontariamente con altri utenti tramite le funzionalità previste dall’App.
+
+5. Sicurezza
+
+L’App utilizza i meccanismi di sicurezza offerti da Firebase (autenticazione e database protetto) per garantire la riservatezza e l’integrità dei dati.
+
+6. Diritti dell’utente
+
+L’utente può in qualsiasi momento:
+
+eliminare i propri dati dalle liste;
+
+disconnettere l’account Google;
+
+richiedere la cancellazione dei propri dati contattando lo sviluppatore.
+
+7. Contatti
+
+Per qualsiasi domanda o richiesta relativa alla privacy, è possibile contattare lo sviluppatore all’indirizzo:
+📧 kijuz.develop@gmail.com
